@@ -45,6 +45,6 @@ Loanding Snake Status
 </div>
 <div>
   <picture align="center"> 
-    <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-svg.svg">
+    <img src="https://github.com/kaykyth181/kaykyth181/blob/main/snake-svg.svg">
   </picture>
 </div>
